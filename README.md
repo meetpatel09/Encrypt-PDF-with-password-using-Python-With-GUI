@@ -1,2 +1,2 @@
 # Encrypt-PDF-with-password-using-Python
-Use pikepdf module and  tkinter for GUI
+Use pikepdf module to read,write PDF and  tkinter for GUI
